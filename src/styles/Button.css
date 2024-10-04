@@ -1,0 +1,17 @@
+.submit-btn {
+    width: 30%;
+    height: 40px;
+    margin: 20px auto 5px;
+    border-radius: 5px;
+    border: rgb(1, 121, 1) solid;
+    background-color: rgb(18, 167, 18);
+    color: #fff;
+    font-weight: bold;
+    font-size: 1rem;
+    font-family:Cambria, serif, sans-serif;
+
+}
+
+.submit-btn:hover {
+    background-color: rgb(1, 121, 1);
+}
